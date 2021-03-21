@@ -1,7 +1,7 @@
 const Navbar = () => {
   return ( 
     <nav className="navbar">
-      <h1>Catalogo</h1>
+      <h1>Catálogo</h1>
       <div className="links">
         <a href="/filmes">Vídeo</a>
         <a href="/filmes">Audio</a>
